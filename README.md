@@ -6,5 +6,7 @@ Think yourself as a marketing manager who has to plan next campaign in a company
 
 
 For implementation we are using Pandas, Matplotlib and Sklearn libraries in Python. 
+
 Implementation of K-Means clustering is available in K-MeansPython.ipynb
+
 *Make sure that cust_segmentation.csv file is available in project directory. 
