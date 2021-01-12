@@ -1,4 +1,4 @@
-# K-Means_clustering_example
+# K-Means clustering for customer segmentation
 We will solve customer segmentation problem for marketing campaign using K-Means clustering. Data set is publicly available and it has following attributes: 
 Customer id, Age, Edu, Years Employed, Income, card debt, Other Debt, defaulted, Address and DebtIncomeRation.
 
